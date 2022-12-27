@@ -1,7 +1,7 @@
 # #1: Hammurabi
 ## Реализация
 ### Код
-Код: [src/sumer-game.hpp](src/sumer-game.hpp) и [src/sumer-game.cpp](src/sumer-game.cpp)
+Код: [src/sumer-game.hpp](../src/sumer-game.hpp) и [src/sumer-game.cpp](../src/sumer-game.cpp)
 ### Структуры
 ```c++
 struct GameState; // состояние игры
