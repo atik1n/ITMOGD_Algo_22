@@ -12,5 +12,5 @@
 Тесты: [google_tests/lab3_tests.cpp](google_tests/lab3_tests.cpp)
 
 ## #4: Dice
-Описание: [doc/lab4.md](doc/lab4.md)
+Описание: [doc/lab4.md](doc/lab4.md)<br>
 Код: [src/dice.hpp](src/dice.hpp) и [src/dice.cpp](src/dice.cpp)
